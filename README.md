@@ -1,6 +1,6 @@
 # Darius
 
-Darius isan AI-powered personal assistant
+Darius (Digital Assistant Real-time Interaction Utilities and Services) is an AI-powered personal assistant
 
 ## Status 
 
